@@ -7,6 +7,9 @@ This repository implements facial attribute prediction using two architectures: 
 - **ResNet50 Transfer Learning:** Utilizes pretrained weights for improved performance with minimal data.
 - **Multi-Output Prediction:** Predicts age (regression), gender, and race (classification) simultaneously.
 
+## Dataset:
+
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/jangedoo/utkface-new). 
 
 ## License:
 
